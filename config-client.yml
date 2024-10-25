@@ -26,8 +26,3 @@ spring:
   application:
     name: springcloud-provider-dept
 
-# Eureka配置：配置服务注册中心地址
-eureka:
-  client:
-    service-url:
-      defaultZone: http://eureka7001.com:7001/eureka/
